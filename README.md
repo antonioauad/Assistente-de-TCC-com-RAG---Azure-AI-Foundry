@@ -80,6 +80,36 @@ Este projeto consiste na criação de um assistente virtual personalizado que ut
 * 
 **Escalabilidade**: O sistema pode processar centenas de documentos, facilitando a vida de estudantes e pesquisadores.
 
+Configurações e resultados do Azure Foundry
+Configuração do AI HUB:
+
+<img width="1078" height="486" alt="image" src="https://github.com/user-attachments/assets/66ebc645-2278-4ba7-bba5-8d849f78af65" />
+
+
+Configuração dos modelos utilizados:
+
+<img width="1077" height="480" alt="image" src="https://github.com/user-attachments/assets/49fb09fc-a832-404a-befa-35ada37af886" />
+
+
+Execução de teste com o modelo GPT4o
+
+<img width="1077" height="477" alt="image" src="https://github.com/user-attachments/assets/52af8cb3-1a52-4d88-9a45-4e230c9906aa" />
+
+ 
+Execução de teste com o chatbot respondendo a partir dos arquivos pdf  inseridos print1:
+
+<img width="1077" height="481" alt="image" src="https://github.com/user-attachments/assets/51e4faf9-3596-42a6-9f6b-cedb6a31c6d5" />
+
+ 
+Execução de teste com o chatbot respondendo a partir dos arquivos pdf  inseridos mostrando referências :
+
+ 
+<img width="1077" height="517" alt="image" src="https://github.com/user-attachments/assets/101d7507-aa13-400e-b4dd-bcd84f9d41ff" />
+
+
+
+
+
 
 
 ---
