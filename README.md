@@ -1,5 +1,5 @@
 
-# 📘 Chat Inteligente com RAG no Azure AI Foundry
+# 📘 Chat Inteligente com RAG no Azure AI Foundry para Microsoft Certification Challenge #5 - DP 100
 
 Este projeto consiste na criação de um assistente virtual personalizado que utiliza a técnica de **RAG (Retrieval-Augmented Generation)** para responder perguntas baseadas em documentos PDF específicos.
 
