@@ -94,4 +94,4 @@ Este projeto consiste na criação de um assistente virtual personalizado que ut
 `README.md`: Documentação do projeto.
 
 
-*Este projeto faz parte do desafio de criação de um sistema de busca inteligente para TCC e estudos avançados.*
+*Este projeto faz parte do desafio de criação de um sistema de busca inteligente para Microsoft Certification Challenge #5 - DP 100 e estudos avançados.*
